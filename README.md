@@ -1,4 +1,4 @@
-# Linkedlist-to-LinkedList
+# LinkedList-to-LinkedList
 
 ## Tentang Program ADT ini
 Akan diberi 5 opsi untuk dipilih, tentang basic dari `linked list` to `linked list`.\
@@ -64,8 +64,12 @@ Jakarta -> Citra -> Dodi\
 - Mengetahui Extern
 
 ## Penggambaran Awal Program
-- secara garis besar hampir sama yang membedakannya adalah visuaoisasinya
-- 
+- hampir sama dengan array linked list yang membedakannya adalah visuaoisasinya
+
+
+![Gambaran bentuk](LLtoLL.png)
+
+[Coretan Saya](https://miro.com/welcomeonboard/Mmp5aW5hR2NoQ2hFTzJ1NGZhSmpaUHJNdlUxelduUXYzWnRlTVg5RElSeEtRSE5zQ0Z5c0xpaFVRNG45WHpWWWtFUld6MVgzZ3FYV0Z5TDkxYUVJb3N4bHprU3RKV1RRYVJFNUZkUlVMWDVIZEpaZFVtRmVLOXRVYk93M0wvOCt0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=788633800719)
 
 ### **Referensi**
 > https://github.com/KhuzaimaAwan47/Array-Implementation-of-Linked-List
