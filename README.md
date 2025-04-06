@@ -77,3 +77,6 @@ Jakarta -> Citra -> Dodi\
 > https://github.com/ChrisRackauckas/LinkedLists.jl
 >
 > Deepseek
+
+
+_**Note: Maap pak saya lupa ganti nama projectnya, masih case5.dev hehe..**_
